@@ -1,0 +1,2 @@
+# SQL
+SQL -podstawowe komendy
